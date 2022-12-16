@@ -24,7 +24,7 @@ include "db_connect.php";
 <form class="form-horizontal" action="search_keyword.php">
 <fieldset>
 
-<!-- Form Name -->
+<!-- Form Name 1 -->
 <legend>Form Name</legend>
 
 <!-- Search input-->
